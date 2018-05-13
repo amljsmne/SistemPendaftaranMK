@@ -75,7 +75,7 @@
               <label class="col-sm-2 control-label">Mata Kuliah Pilihan ke-1</label>
               <div class="col-sm-3">
                 <select class="form-control" name="matkul1" placeholder="Pilih Mata Kuliah ke-1" required>
-                  <option value="<?php echo $data['matkul1']; ?>"><?php echo $data['matukul1']; ?></option>
+                  <option value="<?php echo $data['matkul1']; ?>"><?php echo $data['matkul1']; ?></option>
                   <option value=""></option>
                   <option value="Multimedia">Multimedia</option>
                   <option value="SIG">Sistem Informasi Geografis</option>
